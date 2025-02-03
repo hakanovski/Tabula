@@ -94,7 +94,7 @@ AI-Driven Illustration App is an innovative drawing application that transforms 
 ## Contributing
 Contributions are welcome. Please open an issue to discuss any significant changes before submitting a pull request. Adhere to the established coding standards and ensure comprehensive testing accompanies all contributions.
 
-## License]
+## License
 MIT License
 
 ## Contact
